@@ -43,14 +43,7 @@ if(not SCHEDULE_OLD_EXISTS):
 
 writeSchedule(STATUS[1])
 
-if(compare()):
-    print("Schedule has not changed.")
-else:
+if(not compare()):
     writeSchedule(STATUS[0])
-    print("Schedule has changed.")
-    try:
-        SMTPSERVER.sendmail(GMAIL_USER, TO, MSG)
-        print("Successfully sent email")
-        SMTPSERVER.close()
-    except SMTPException:
-        print("Error: unable to send email")
+    SMTPSERVER.sendmail(GMAIL_USER, TO, MSG)
+    SMTPSERVER.close()
