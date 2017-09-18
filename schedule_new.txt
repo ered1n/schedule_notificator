@@ -1,0 +1,675 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="expires" content="0"><meta name="keywords" content="Rooster, timetable">
+<meta name="GENERATOR" content="Untis 2017">
+<title>Untis 2017  MBO College Zuidoost  ROC van Amsterdam  2</title>
+<style type="text/css">
+a {color:#000000;}
+</style>
+<link rel="stylesheet" href="../../untisinfo.css" type="text/css">
+</head>
+<body class=tt>
+<CENTER><font size="2" face="Verdana"  color="#000000">
+<BR></font>
+<font size="4" face="Verdana" color="#0000FF">
+<B>OITAOO5A</B>
+&nbsp;</font> <font size="5" face="Verdana">
+<B>Periode 1</B>
+&nbsp;</font> <font size="4" face="Verdana">
+<B>Ingangsdatum 18-09-17</B>
+&nbsp;<B>BUYSJ</B>
+</font>
+<BR><TABLE border="3" rules="all" cellpadding="1" cellspacing="1">
+<TR>
+<TD align="center"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana"  color="#000000">
+Maandag 18-09
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana">
+Dinsdag 19-09
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana">
+Woensdag 20-09
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana">
+Donderdag 21-09
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana">
+Vrijdag 22-09
+</font> </TD>
+</TR></TABLE></TD>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+8.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+9.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=24 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+8.30
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Project.
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Dhr. S. Huisman
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+239
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Project
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Mw. J. Buys
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+10.30
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=24 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+8.30
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Project
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Dhr. S. Huisman
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+237
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+10.30
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+8.30
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Rekenen
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Dhr. A. v/d Wetering
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+239
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+9.30
+</font> </TD>
+</TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+9.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+10.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+9.30
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Exam. Proj. Kerntaak 4.
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Dhr. S. Huisman
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+233
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Exam. Proj. Kerntaak 2
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+10.30
+</font> </TD>
+</TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+10.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+11.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+10.45
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Project
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Dhr. S. Huisman
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+239
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+11.45
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+10.45
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Studie Loopbaan Begeleiding
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Mw. J. Buys
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+235
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+11.45
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+10.45
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Exam. Proj. Kerntaak 4.
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Dhr. S. Huisman
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+233
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Exam. Proj. Kerntaak 2
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+11.45
+</font> </TD>
+</TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+11.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+12.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+11.45
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Exam. Proj. Kerntaak 1
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Mw. J. Buys
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+237
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+12.45
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+11.45
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Nederlands
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Mw. S. Droge
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+249
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+12.45
+</font> </TD>
+</TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+12.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+13.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+13.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+14.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=24 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+13.15
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Exam. Proj. Kerntaak 1
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Mw. J. Buys
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+237
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+15.15
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+13.15
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Nederlands
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Mw. S. Droge
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+249
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+14.15
+</font> </TD>
+</TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+14.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+15.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+14.15
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Engels
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Mw. J. Hira
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+247
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+15.15
+</font> </TD>
+</TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+15.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+16.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+15.30
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Exam. Proj. Kerntaak 4.
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Dhr. S. Huisman
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+210
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Exam. Proj. Kerntaak 2
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+16.30
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=24 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+15.30
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Programmeren
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Vacature ICT
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+239
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+17.30
+</font> </TD>
+</TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+16.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+17.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+16.30
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Engels
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Mw. J. Hira
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+415
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+17.30
+</font> </TD>
+</TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+17.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+18.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+18.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+19.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+19.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+20.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+20.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+21.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+<TD rowspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+21.00
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+ - 
+</font> </TD>
+</TR><TR><TD align="center" nowrap=1><font size="2" face="Verdana">
+22.00
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR><TR>
+</TR></TABLE><TABLE cellspacing="1" cellpadding="1"><TR><TD valign=bottom> <font  size="4" face="Arial" color="#0000FF"></TR></TABLE><font size="2" face="Verdana">
+http://rooster.talnet.nl/zuidoost/
+</font></CENTER>
+</body>
+</html>
+
