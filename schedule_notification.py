@@ -11,7 +11,7 @@ STATUS = ["old", "new"]
 SCHEDULE_OLD_EXISTS = Path("schedule_old.txt").is_file()
 
 #SMTP
-TO = "2013917@talnet.nl"
+TO = ["2013917@talnet.nl", "2029870@talnet.nl", "acabrasnl@gmail.com", "ravidveeris@gmail.com"]
 GMAIL_USER = "schedule.notification001@gmail.com"
 GMAIL_PASS = "pythonproject"
 SMTPSERVER = smtplib.SMTP("smtp.gmail.com", 587)
@@ -19,7 +19,7 @@ SMTPSERVER.ehlo()
 SMTPSERVER.starttls()
 SMTPSERVER.ehlo()
 SMTPSERVER.login(GMAIL_USER, GMAIL_PASS)
-HEADER = "To: " + TO + "\n" + "From: " + GMAIL_USER + "\n" + "Subject: Rooster is gewijzigd \n"
+HEADER = "To: " + ", ".join(TO) + "\n" + "From: " + GMAIL_USER + "\n" + "Subject: Rooster is gewijzigd \n"
 CONTENT = "Het rooster is gewijzigd, kijk op https://rooster.talnet.nl/zuidoost/38/c/c00045.htm voor de wijzigingen"
 MSG = HEADER + "\n" + CONTENT
 
