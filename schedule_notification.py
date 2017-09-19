@@ -4,9 +4,12 @@ import urllib.request
 import filecmp
 import smtplib
 from email.message import EmailMessage
+from datetime import date
 
 DIR = os.path.dirname(os.path.realpath(__file__)) + "/"
-URL = "https://rooster.talnet.nl/zuidoost/38/c/c00045.htm"
+
+WEEK = str(date.today().isocalendar()[1])
+URL = "https://rooster.talnet.nl/zuidoost/" + WEEK + "/c/c00045.htm"
 STATUS = ["old", "new"]
 SCHEDULE_OLD_EXISTS = Path("schedule_old.txt").is_file()
 
@@ -20,7 +23,7 @@ SMTPSERVER.starttls()
 SMTPSERVER.ehlo()
 SMTPSERVER.login(GMAIL_USER, GMAIL_PASS)
 HEADER = "To: " + ", ".join(TO) + "\n" + "From: " + GMAIL_USER + "\n" + "Subject: Rooster is gewijzigd \n"
-CONTENT = "Het rooster is gewijzigd, kijk op https://rooster.talnet.nl/zuidoost/38/c/c00045.htm voor de wijzigingen"
+CONTENT = "Het rooster is gewijzigd, kijk op " + URL + " voor de wijzigingen"
 MSG = HEADER + "\n" + CONTENT
 
 def getSchedule(url):

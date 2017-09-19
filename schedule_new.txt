@@ -24,23 +24,23 @@ a {color:#000000;}
 <TR>
 <TD align="center"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana"  color="#000000">
-Maandag 18-09
+Maandag 25-09
 </font> </TD>
 </TR></TABLE></TD>
 <TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana">
-Dinsdag 19-09
+Dinsdag 26-09
 </font> </TD>
 </TR></TABLE></TD>
 <TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana">
-Woensdag 20-09
+Woensdag 27-09
 </font> </TD>
 </TR></TABLE></TD>
 <TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana">
-Donderdag 21-09
+Donderdag 28-09
 </font> </TD>
 </TR></TABLE></TD>
 <TD colspan=12 align="center" nowrap="1"><TABLE><TR><TD align="center" nowrap=1><font size="3" face="Verdana">
-Vrijdag 22-09
+Vrijdag 29-09
 </font> </TD>
 </TR></TABLE></TD>
 </TR><TR>
@@ -55,7 +55,7 @@ Vrijdag 22-09
 </font> </TD>
 </TR></TABLE></TD>
 <TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
-<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
@@ -82,6 +82,22 @@ Project
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
 Mw. J. Buys
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+10.30
+</font> </TD>
+</TR></TABLE></TD>
+<TD colspan=12 rowspan=24 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+8.30
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Project
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Dhr. S. Huisman
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+237
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
 10.30
@@ -119,7 +135,6 @@ Dhr. A. v/d Wetering
 10.00
 </font> </TD>
 </TR></TABLE></TD>
-<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
@@ -163,7 +178,6 @@ Exam. Proj. Kerntaak 2
 11.00
 </font> </TD>
 </TR></TABLE></TD>
-<TD colspan=12 rowspan=9 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
@@ -172,6 +186,7 @@ Exam. Proj. Kerntaak 2
 </TR><TR>
 </TR><TR>
 </TR><TR>
+<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
@@ -440,13 +455,16 @@ Mw. J. Hira
 15.30
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-Engels
+Exam. Proj. Kerntaak 4.
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-Mw. J. Hira
+Dhr. S. Huisman
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-210
+233
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Exam. Proj. Kerntaak 2
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
 16.30
@@ -493,7 +511,22 @@ Vacature ICT
 </TR><TR>
 </TR><TR>
 </TR><TR>
-<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+16.30
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Engels
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+Mw. J. Hira
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+415
+</font> </TD>
+</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
+17.30
+</font> </TD>
+</TR></TABLE></TD>
 </TR><TR>
 </TR><TR>
 </TR><TR>
@@ -513,13 +546,13 @@ Vacature ICT
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
-<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
 </TR><TR>
 </TR><TR>
 </TR><TR>
 </TR><TR>
 </TR><TR>
+<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
 </TR><TR>
