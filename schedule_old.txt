@@ -55,7 +55,7 @@ Vrijdag 22-09
 </font> </TD>
 </TR></TABLE></TD>
 <TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
-<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
@@ -82,22 +82,6 @@ Project
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
 Mw. J. Buys
-</font> </TD>
-</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-10.30
-</font> </TD>
-</TR></TABLE></TD>
-<TD colspan=12 rowspan=24 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-8.30
-</font> </TD>
-</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-Project
-</font> </TD>
-</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-Dhr. S. Huisman
-</font> </TD>
-</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-237
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
 10.30
@@ -135,6 +119,7 @@ Dhr. A. v/d Wetering
 10.00
 </font> </TD>
 </TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
@@ -178,6 +163,7 @@ Exam. Proj. Kerntaak 2
 11.00
 </font> </TD>
 </TR></TABLE></TD>
+<TD colspan=12 rowspan=9 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
@@ -186,7 +172,6 @@ Exam. Proj. Kerntaak 2
 </TR><TR>
 </TR><TR>
 </TR><TR>
-<TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=3 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
@@ -455,16 +440,13 @@ Mw. J. Hira
 15.30
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-Exam. Proj. Kerntaak 4.
+Engels
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-Dhr. S. Huisman
+Mw. J. Hira
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
 210
-</font> </TD>
-</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-Exam. Proj. Kerntaak 2
 </font> </TD>
 </TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
 16.30
@@ -511,22 +493,7 @@ Vacature ICT
 </TR><TR>
 </TR><TR>
 </TR><TR>
-<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-16.30
-</font> </TD>
-</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-Engels
-</font> </TD>
-</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-Mw. J. Hira
-</font> </TD>
-</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-415
-</font> </TD>
-</TR><TR><TD width="50%" nowrap=1><font size="2" face="Verdana">
-17.30
-</font> </TD>
-</TR></TABLE></TD>
+<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
 </TR><TR>
 </TR><TR>
@@ -546,13 +513,13 @@ Mw. J. Hira
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
+<TD colspan=12 rowspan=12 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
 </TR><TR>
 </TR><TR>
 </TR><TR>
 </TR><TR>
 </TR><TR>
-<TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 <TD colspan=12 rowspan=6 align="center" nowrap="1"><TABLE><TR><TD></TD></TR></TABLE></TD>
 </TR><TR>
 </TR><TR>

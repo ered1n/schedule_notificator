@@ -5,7 +5,7 @@ import filecmp
 import smtplib
 from email.message import EmailMessage
 
-DIR = os.path.dirname(os.path.realpath(__file__))
+DIR = os.path.dirname(os.path.realpath(__file__)) + "/"
 URL = "https://rooster.talnet.nl/zuidoost/38/c/c00045.htm"
 STATUS = ["old", "new"]
 SCHEDULE_OLD_EXISTS = Path("schedule_old.txt").is_file()
@@ -30,19 +30,19 @@ def getSchedule(url):
         return ex
 
 def writeSchedule(status):
-    filename = "schedule_" + status + ".txt"
+    filename = DIR  + "schedule_" + status + ".txt"
     with open(filename, "wb+") as txt_file:
         txt_file.write(getSchedule(URL))
 
-#def compare():
-#    return filecmp.cmp("schedule_old.txt", "schedule_new.txt")
-#
-#if(not SCHEDULE_OLD_EXISTS):
-#    writeSchedule(STATUS[0])
-#
-#writeSchedule(STATUS[1])
-#
-#if(not compare()):
-#    writeSchedule(STATUS[0])
-#    SMTPSERVER.sendmail(GMAIL_USER, TO, MSG)
-#    SMTPSERVER.close()
+def compare():
+    return filecmp.cmp(DIR + "schedule_old.txt", DIR + "schedule_new.txt")
+
+if(not SCHEDULE_OLD_EXISTS):
+    writeSchedule(STATUS[0])
+
+writeSchedule(STATUS[1])
+
+if(not compare()):
+    writeSchedule(STATUS[0])
+    SMTPSERVER.sendmail(GMAIL_USER, TO, MSG)
+    SMTPSERVER.close()
